@@ -8,17 +8,13 @@ import Container from "../global/container";
 import { Button, buttonVariants } from "../ui/button";
 
 import { cn } from "@/functions";
-import { useClerk } from "@clerk/nextjs";
-
 
 const DashboardSidebar = () => {
-
-    const { signOut } = useClerk();
 
     const pathname = usePathname();
 
     const handleLogout = async () => {
-        await signOut();
+        console.log("Logout clicked");
     };
 
     return (
