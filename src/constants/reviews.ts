@@ -9,73 +9,73 @@ export const REVIEWS: REVIEW[] = [
     {
         name: "Arjun Singh",
         username: "@arjunsingh",
-        review: "This platform has revolutionized the way I manage my projects. The AI tools are a game-changer!",
+        review: "Esta plataforma ha revolucionado la forma en que gestiono mis proyectos. ¡Las herramientas de IA son un cambio de juego!",
         img: "https://randomuser.me/api/portraits/men/1.jpg"
     },
     {
         name: "Priya Nair",
         username: "@priyanair",
-        review: "Absolutely love the seamless integration with social media. It's made my content creation process so much easier.",
+        review: "Me encanta la integración perfecta con las redes sociales. Ha facilitado mucho mi proceso de creación de contenido.",
         img: "https://randomuser.me/api/portraits/women/2.jpg"
     },
     {
         name: "Rohan Mehta",
         username: "@rohanmehta",
-        review: "The features offered here are unmatched. My productivity has soared since I started using this service.",
+        review: "Las características que se ofrecen aquí son inigualables. Mi productividad se ha disparado desde que comencé a usar este servicio.",
         img: "https://randomuser.me/api/portraits/men/3.jpg"
     },
     {
         name: "Sneha Patel",
         username: "@snehapatel",
-        review: "Customer support is top-notch. They’re always ready to assist with any queries I have.",
+        review: "El soporte al cliente es de primera categoría. Siempre están listos para ayudar con cualquier consulta que tenga.",
         img: "https://randomuser.me/api/portraits/women/4.jpg"
     },
     {
         name: "Ankit Sharma",
         username: "@ankitsharma",
-        review: "The customization options available are perfect for my business needs. Highly recommended!",
+        review: "Las opciones de personalización disponibles son perfectas para las necesidades de mi negocio. ¡Muy recomendable!",
         img: "https://randomuser.me/api/portraits/men/5.jpg"
     },
     {
         name: "Meera Kapoor",
         username: "@meerakapoor",
-        review: "The intuitive design and ease of use make this platform stand out. It's a must-have for any business.",
+        review: "El diseño intuitivo y la facilidad de uso hacen que esta plataforma se destaque. Es imprescindible para cualquier negocio.",
         img: "https://randomuser.me/api/portraits/women/6.jpg"
     },
     {
         name: "Vikram Desai",
         username: "@vikramdesai",
-        review: "From analytics to AI-powered tools, this service covers everything I need to grow my business.",
+        review: "Desde análisis hasta herramientas impulsadas por IA, este servicio cubre todo lo que necesito para hacer crecer mi negocio.",
         img: "https://randomuser.me/api/portraits/men/7.jpg"
     },
     {
         name: "Anjali Menon",
         username: "@anjalimenon",
-        review: "I’m impressed with how much value I’m getting at this price point. It's worth every penny!",
+        review: "Estoy impresionado con la cantidad de valor que estoy obteniendo a este precio. ¡Vale cada centavo!",
         img: "https://randomuser.me/api/portraits/women/8.jpg"
     },
     {
         name: "Karan Gupta",
         username: "@karangupta",
-        review: "The AI content generation is phenomenal. It saves me hours of work every week.",
+        review: "La generación de contenido con IA es fenomenal. Me ahorra horas de trabajo cada semana.",
         img: "https://randomuser.me/api/portraits/men/9.jpg"
     },
     {
         name: "Neha Verma",
         username: "@nehaverma",
-        review: "I love how everything is organized in one place. It makes managing my tasks so much easier.",
+        review: "Me encanta cómo todo está organizado en un solo lugar. Facilita mucho la gestión de mis tareas.",
         img: "https://randomuser.me/api/portraits/women/10.jpg"
     },
     {
         name: "Siddharth Jain",
         username: "@siddharthjain",
-        review: "Their platform is robust, and I have seen a significant improvement in my workflow since I started using it.",
+        review: "Su plataforma es robusta y he visto una mejora significativa en mi flujo de trabajo desde que comencé a usarla.",
         img: "https://randomuser.me/api/portraits/men/11.jpg"
     },
     {
         name: "Divya Iyer",
         username: "@divyaiyer",
-        review: "Fantastic service! The updates and new features keep getting better and better.",
+        review: "¡Servicio fantástico! Las actualizaciones y las nuevas características siguen mejorando cada vez más.",
         img: "https://randomuser.me/api/portraits/women/12.jpg"
     }
 ];

@@ -48,7 +48,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                     >
                         <Link href="/how-it-works" className="flex items-center w-full text-start">
                             <UserCog className="w-4 h-4 mr-2" />
-                            How it works
+                            Cómo funciona
                         </Link>
                     </li>
                     <Accordion type="single" collapsible className="w-full">
@@ -56,7 +56,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                             <AccordionTrigger className="px-4 py-2 text-lg hover:text-muted-foreground font-normal">
                                 <span className="flex items-center">
                                     <CopyCheck className="w-4 h-4 mr-2" />
-                                    Features
+                                    Características
                                 </span>
                             </AccordionTrigger>
                             <AccordionContent onClick={() => setIsOpen(false)} className="flex flex-col items-start gap-1 mt-1">
@@ -65,7 +65,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                                 >
                                     <Link href="/" className="flex items-center w-full text-start">
                                         <Captions className="w-4 h-4 mr-2" />
-                                        Caption Generation
+                                        Generación de Subtítulos
                                     </Link>
                                 </li>
                                 <li
@@ -73,7 +73,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                                 >
                                     <Link href="/" className="flex items-center w-full text-start">
                                         <CalendarClock className="w-4 h-4 mr-2" />
-                                        Post Scheduling
+                                        Programación de Publicaciones
                                     </Link>
                                 </li>
                                 <li
@@ -81,7 +81,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                                 >
                                     <Link href="/" className="flex items-center w-full text-start">
                                         <LineChart className="w-4 h-4 mr-2" />
-                                        Analytics Dashboard
+                                        Panel de Analíticas
                                     </Link>
                                 </li>
                             </AccordionContent>
@@ -93,7 +93,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                     >
                         <Link href="/" className="flex items-center w-full text-start">
                             <Gem className="w-4 h-4 mr-2" />
-                            Pricing
+                            Precios
                         </Link>
                     </li>
                     <li
@@ -102,7 +102,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                     >
                         <Link href="/" className="flex items-center w-full text-start">
                             <Waypoints className="w-4 h-4 mr-2" />
-                            Integrations
+                            Integraciones
                         </Link>
                     </li>
                     <Accordion type="single" collapsible className="w-full">
@@ -110,7 +110,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                             <AccordionTrigger className="px-4 py-2 text-lg hover:text-muted-foreground font-normal">
                                 <span className="flex items-center">
                                     <Layers3 className="w-4 h-4 mr-2" />
-                                    Resources
+                                    Recursos
                                 </span>
                             </AccordionTrigger>
                             <AccordionContent onClick={() => setIsOpen(false)} className="flex flex-col items-start gap-1 mt-1">
@@ -127,7 +127,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                                 >
                                     <Link href="/" className="flex items-center w-full text-start">
                                         <FileText className="w-4 h-4 mr-2" />
-                                        Case Studies
+                                        Casos de Estudio
                                     </Link>
                                 </li>
                                 <li
@@ -135,7 +135,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                                 >
                                     <Link href="/" className="flex items-center w-full text-start">
                                         <Box className="w-4 h-4 mr-2" />
-                                        Tools
+                                        Herramientas
                                     </Link>
                                 </li>
                                 <li
@@ -143,7 +143,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                                 >
                                     <Link href="/" className="flex items-center w-full text-start">
                                         <CircleHelp className="w-4 h-4 mr-2" />
-                                        Support
+                                        Soporte
                                     </Link>
                                 </li>
                             </AccordionContent>

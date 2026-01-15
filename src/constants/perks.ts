@@ -5,32 +5,32 @@ import React from "react";
 export const PERKS = [
     {
         icon: ZapIcon,
-        title: "Fast and Efficient",
-        description: "Experience quick and seamless content creation with our optimized AI tools."
+        title: "Rápido y Eficiente",
+        description: "Experimenta una creación de contenido rápida y fluida con nuestras herramientas de IA optimizadas."
     },
     {
         icon: ChartSplineIcon,
-        title: "Insightful Analytics",
-        description: "Gain valuable insights and analytics to enhance your social media strategy."
+        title: "Análisis Perspicaces",
+        description: "Obtén información y análisis valiosos para mejorar tu estrategia de redes sociales."
     },
     {
         icon: LifeBuoyIcon,
-        title: "24/7 Support",
-        description: "Our team is available around the clock to assist with any issues or questions."
+        title: "Soporte 24/7",
+        description: "Nuestro equipo está disponible las 24 horas para ayudarte con cualquier problema o pregunta."
     },
     {
         icon: PaletteIcon,
-        title: "Customizable Solutions",
-        description: "Tailor the tools and features to fit your unique social media needs."
+        title: "Soluciones Personalizables",
+        description: "Adapta las herramientas y características para que se ajusten a tus necesidades únicas de redes sociales."
     },
     {
         icon: ShieldCheckIcon,
-        title: "Secure and Reliable",
-        description: "Trust our platform to keep your data safe and ensure consistent performance."
+        title: "Seguro y Confiable",
+        description: "Confía en nuestra plataforma para mantener tus datos seguros y garantizar un rendimiento constante."
     },
     {
         icon: WaypointsIcon,
-        title: "Seamless Integration",
-        description: "Easily integrate with your existing social media platforms and tools."
+        title: "Integración Perfecta",
+        description: "Integra fácilmente con tus plataformas y herramientas de redes sociales existentes."
     },
 ];

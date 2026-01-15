@@ -9,77 +9,77 @@ type Link = {
 export const SIDEBAR_LINKS: Link[] = [
     {
         href: "/dashboard",
-        label: "Dashboard",
+        label: "Panel de Control",
         icon: ChartPieIcon,
     },
     {
         href: "/dashboard/campaigns",
-        label: "Campaigns",
+        label: "Campañas",
         icon: MegaphoneIcon
     },
     {
         href: "/dashboard/analytics",
-        label: "Analytics",
+        label: "Analíticas",
         icon: LineChartIcon
     },
     {
         href: "/dashboard/posts",
-        label: "Posts",
+        label: "Publicaciones",
         icon: MessageSquareTextIcon
     },
     {
         href: "/dashboard/engagement",
-        label: "Engagement",
+        label: "Interacción",
         icon: UsersIcon
     },
     {
         href: "/dashboard/billing",
-        label: "Billing",
+        label: "Facturación",
         icon: CreditCardIcon
     },
     {
         href: "/dashboard/settings",
-        label: "Settings",
+        label: "Configuración",
         icon: SettingsIcon
     },
 ];
 
 export const FOOTER_LINKS = [
     {
-        title: "Product",
+        title: "Producto",
         links: [
-            { name: "Home", href: "/" },
-            { name: "Features", href: "/" },
-            { name: "Pricing", href: "/" },
-            { name: "Contact", href: "/" },
-            { name: "Download", href: "/" },
+            { name: "Inicio", href: "/" },
+            { name: "Características", href: "/" },
+            { name: "Precios", href: "/" },
+            { name: "Contacto", href: "/" },
+            { name: "Descargar", href: "/" },
         ],
     },
     {
-        title: "Resources",
+        title: "Recursos",
         links: [
             { name: "Blog", href: "/blog" },
-            { name: "Help Center", href: "/help-center" },
-            { name: "Community", href: "/community" },
-            { name: "Guides", href: "/guides" },
+            { name: "Centro de Ayuda", href: "/help-center" },
+            { name: "Comunidad", href: "/community" },
+            { name: "Guías", href: "/guides" },
         ],
     },
     {
         title: "Legal",
         links: [
-            { name: "Privacy", href: "/privacy" },
-            { name: "Terms", href: "/terms" },
+            { name: "Privacidad", href: "/privacy" },
+            { name: "Términos", href: "/terms" },
             { name: "Cookies", href: "/cookies" },
         ],
     },
     {
-        title: "Developers",
+        title: "Desarrolladores",
         links: [
-            { name: "API Docs", href: "/api-docs" },
+            { name: "Documentación de la API", href: "/api-docs" },
             { name: "SDKs", href: "/sdks" },
-            { name: "Tools", href: "/tools" },
-            { name: "Open Source", href: "/open-source" },
-            { name: "Changelog", href: "/changelog" },
+            { name: "Herramientas", href: "/tools" },
+            { name: "Código Abierto", href: "/open-source" },
+            { name: "Registro de Cambios", href: "/changelog" },
         ],
     },
 ];

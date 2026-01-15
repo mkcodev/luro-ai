@@ -49,13 +49,13 @@ const Navbar = () => {
                         </div>
                         <div className="items-center flex gap-2 lg:gap-4">
                             <Button size="sm" variant="tertiary" asChild className="hover:translate-y-0 hover:scale-100">
-                                <Link href="/auth/signin">
-                                    Login
+                                <Link href="/blog">
+                                    Blog
                                 </Link>
                             </Button>
                             <Button size="sm" variant="white" asChild className="hidden sm:flex">
-                                <Link href="/auth/signup">
-                                    Start for free
+                                <Link href="/contact">
+                                    Contactar ahora
                                     <ArrowRightIcon className="w-4 h-4 ml-2 hidden lg:block" />
                                 </Link>
                             </Button>
