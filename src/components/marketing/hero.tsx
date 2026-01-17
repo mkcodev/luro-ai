@@ -28,7 +28,7 @@ const Hero = () => {
                 </div>
             </Container>
             <BlurText
-                word={"Tu herramienta definitiva de\n marketing para redes sociales"}
+                word={"Tu solucion definitiva de\n marketing para escalar tu neogocio o marca"}
                 className="text-3xl sm:text-5xl lg:text-6xl xl:text-7xl bg-gradient-to-br from-foreground to-foreground/60 bg-clip-text text-transparent py-2 md:py-0 lg:!leading-snug font-medium racking-[-0.0125em] mt-6 font-heading"
             />
             <Container delay={0.1}>
@@ -40,7 +40,7 @@ const Hero = () => {
                 <div className="flex items-center justify-center md:gap-x-6 mt-8">
                     <Button asChild size="lg">
                         <Link href="/app">
-                            Comienza gratis
+                            Comienza ahora
                         </Link>
                     </Button>
                     <Button asChild size="lg" variant="outline" className="hidden md:flex">

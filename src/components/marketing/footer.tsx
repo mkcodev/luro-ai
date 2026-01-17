@@ -22,15 +22,15 @@ const Footer = () => {
                         <div className="flex items-center gap-2">
                             <Icons.icon className="w-5 h-5" />
                             <span className="text-xl font-medium">
-                                Luro
+                                Geko Marketing
                             </span>
                         </div>
                         <p className="text-base max-w mt-4">
-                            Empower your business with our AI tools.
+                            Contacta con nosotros y potencia tu negocio.
                         </p>
                         <Button className="mt-8">
                             <Link href="/app">
-                                Start for free
+                                Empieza ahora
                             </Link>
                         </Button>
                     </div>
@@ -57,7 +57,7 @@ const Footer = () => {
             <Container>
                 <Wrapper className="pt-10 flex items-center justify-between relative">
                     <p className="text-sm text-secondary-foreground">
-                        &copy; {new Date().getFullYear()} Luro. All rights reserved.
+                        &copy; {new Date().getFullYear()} Geko Marketing. Todos los derechos reservados.
                     </p>
                     <div className="flex items-center gap-4">
                         <Link href="#" className="p-1">
