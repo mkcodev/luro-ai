@@ -71,7 +71,7 @@ const config = {
       },
       fontFamily: {
         "heading": ["var(--font-satoshi)"],
-        "default": ["var(--font-inter)"],
+        "default": ["var(--font-satoshi)", "sans-serif"],
       },
       keyframes: {
         "accordion-down": {

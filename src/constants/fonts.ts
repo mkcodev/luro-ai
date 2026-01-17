@@ -1,7 +1,7 @@
 import { Inter, DM_Sans, Roboto, Poppins } from "next/font/google";
 import localFont from "next/font/local";
 
-export const satoshi2 = localFont({
+export const satoshi = localFont({
     src: [
         // {
         //     path: "../../public/fonts/Satoshi-Thin.woff2",
@@ -29,12 +29,6 @@ export const satoshi2 = localFont({
         },
     ],
     variable: "--font-satoshi",
-});
-
-export const satoshi = Poppins({
-    subsets: ["latin"],
-    variable: "--font-inter",
-    weight: ["100", "200", "300", "400", "500", "600", "700","800", "900"],
 });
 
 export const inter = Inter({
